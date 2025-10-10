@@ -1,13 +1,33 @@
-# EventHub - Web Manajemen dan E-Ticketing Event (Template)
+# 🎟️ Web Manajemen dan E-Ticketing Event (EventHub)
 
-Repository template untuk tugas kelompok:
-- Framework: Laravel (PHP 8+)
-- Database: MySQL (atau compatible)
-- QR generation: simplesoftwareio/simple-qrcode (opsional)
+## 📘 Deskripsi Proyek
+EventHub adalah aplikasi web berbasis **Laravel** yang digunakan untuk **manajemen event dan sistem e-ticketing**.  
+Aplikasi ini memungkinkan pengguna untuk:
+- Melihat daftar event yang tersedia  
+- Membeli tiket secara online  
+- Menerima **e-ticket dengan QR Code**  
+- Memvalidasi tiket di pintu masuk oleh panitia  
+- Admin dapat membuat, mengedit, dan menghapus event melalui dashboard  
 
-Struktur:
-- app/Models: Eloquent models
-- app/Http/Controllers: Controllers (EventController, TicketController)
-- database/migrations: migrations untuk events dan tickets
-- routes/api.php: API endpoints
-- tests/Feature: contoh feature test
+Proyek ini dibuat sebagai tugas besar mata kuliah **IMPL / Rekayasa Perangkat Lunak**, dengan mengimplementasikan kebutuhan dari dokumen **SKPL dan DPPL** menjadi kode nyata sesuai dengan **PSPEC**.
+
+---
+
+## 👥 Anggota Kelompok
+
+| No | Nama Lengkap | NIM | Peran |
+|----|---------------|------|-------|
+| 1 | **Muamar Haikal F.** | 1203230118 | Backend Developer (TicketController, QR Integration) |
+| 2 | **Ahmad Wahyudi** | 1203230116 | Backend Developer (EventController, Models, Migrations) |
+| 3 | **Arya Maulana** | 1203230120 | Auth & User Management, Testing |
+| 4 | **Nicholas Aditya R.** | 1203230080 | Frontend API Integration & Repository Maintainer |
+| 5 | **Mukhlis Zahrawani S.** | 1203230065 | Admin Dashboard & Documentation |
+
+---
+
+## ⚙️ Langkah Instalasi Laravel
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/nicn00/WEB-MANAGEMENT-E-TIKETING-EVENT.git
+cd WEB-MANAGEMENT-E-TIKETING-EVENT
