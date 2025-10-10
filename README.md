@@ -1,6 +1,6 @@
-# 🎟️ Web Manajemen dan E-Ticketing Event (EventHub)
+# Web Manajemen dan E-Ticketing Event (EventHub)
 
-## 📘 Deskripsi Proyek
+## Deskripsi Proyek
 EventHub adalah aplikasi web berbasis **Laravel** yang digunakan untuk **manajemen event dan sistem e-ticketing**.  
 Aplikasi ini memungkinkan pengguna untuk:
 - Melihat daftar event yang tersedia  
@@ -13,7 +13,7 @@ Proyek ini dibuat sebagai tugas besar mata kuliah **IMPL / Rekayasa Perangkat Lu
 
 ---
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 
 | No | Nama Lengkap | NIM | Peran |
 |----|---------------|------|-------|
@@ -24,10 +24,3 @@ Proyek ini dibuat sebagai tugas besar mata kuliah **IMPL / Rekayasa Perangkat Lu
 | 5 | **Mukhlis Zahrawani S.** | 1203230065 | Admin Dashboard & Documentation |
 
 ---
-
-## ⚙️ Langkah Instalasi Laravel
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/nicn00/WEB-MANAGEMENT-E-TIKETING-EVENT.git
-cd WEB-MANAGEMENT-E-TIKETING-EVENT
