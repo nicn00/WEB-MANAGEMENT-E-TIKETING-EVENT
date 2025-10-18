@@ -10,7 +10,7 @@ Aplikasi ini memungkinkan pengguna untuk:
 - Tampilan publik daftar event
 - Kelola profil user (edit data dasar & foto)
 
-Proyek ini dibuat sebagai tugas besar mata kuliah **IMPL / Rekayasa Perangkat Lunak**
+Proyek ini dibuat sebagai tugas besar mata kuliah IMPLEMENTASI DAN PENGUJIAN PERANGKAT LUNAK
 
 ---
 
