@@ -70,6 +70,8 @@ Tujuan utama EventHub adalah:
 - Visual Studio Code
 - GitHub – manajemen versi
 
+---
+
 ### 🎨 Desain UI/UX
 - Perancangan antarmuka pengguna dilakukan menggunakan Figma, dengan fokus pada:
 - Tampilan responsif untuk desktop dan mobile.
@@ -81,16 +83,18 @@ Tujuan utama EventHub adalah:
 - Dashboard Admin
 - Tiket Saya
 
-### 🖥️ Kebutuhan Sistem
+---
 
-- 💻 Perangkat Keras
-| Spesifikasi Minimum      | Spesifikasi Rekomendasi             |
-| :----------------------- | :---------------------------------- |
-| CPU: Dual-core 2.0 GHz   | CPU: Quad-core 2.5 GHz atau lebih   |
-| RAM: 2 GB                | RAM: 4-8 GB                         |
-| Penyimpanan: 4 GB kosong | Penyimpanan: ≥ 16 GB                |
-| Koneksi: Internet 2 Mbps | Koneksi: Internet stabil 5 Mbps     |
-| Browser: Chrome/Firefox  | Browser: Chrome/Edge/Safari terbaru |
+## 👩‍💻 Kontributor
+| Nama | NIM | Peran |
+| :--: | :-- | :-- |
+| Muammar Haikal Fauzan | 1203230118 | Backend Developer |
+| Nicholas Aditya Ramadhani | 1203230080 | Frontend Developer |
+| Arya Maulana | 1203230120 | Database & Integration |
+| Ahmad Wahyudi | 1203230116 | UI/UX Designer |
+| Mukhlis Zahrawani Sutrisno | 1203230065 | Documentation & Testing |
+
+---
 
 
 
