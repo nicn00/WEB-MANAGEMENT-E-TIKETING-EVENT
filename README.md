@@ -70,3 +70,28 @@ Tujuan utama EventHub adalah:
 - Visual Studio Code
 - GitHub – manajemen versi
 
+### 🎨 Desain UI/UX
+- Perancangan antarmuka pengguna dilakukan menggunakan Figma, dengan fokus pada:
+- Tampilan responsif untuk desktop dan mobile.
+- Navigasi sederhana dan intuitif.
+- Warna utama: kombinasi biru dan putih untuk kesan profesional.
+- Contoh halaman:
+- Login & Registrasi
+- Daftar Event & Detail Event
+- Dashboard Admin
+- Tiket Saya
+
+### 🖥️ Kebutuhan Sistem
+
+- 💻 Perangkat Keras
+| Spesifikasi Minimum      | Spesifikasi Rekomendasi             |
+| :----------------------- | :---------------------------------- |
+| CPU: Dual-core 2.0 GHz   | CPU: Quad-core 2.5 GHz atau lebih   |
+| RAM: 2 GB                | RAM: 4-8 GB                         |
+| Penyimpanan: 4 GB kosong | Penyimpanan: ≥ 16 GB                |
+| Koneksi: Internet 2 Mbps | Koneksi: Internet stabil 5 Mbps     |
+| Browser: Chrome/Firefox  | Browser: Chrome/Edge/Safari terbaru |
+
+
+
+
