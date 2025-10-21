@@ -5,22 +5,6 @@ Sistem ini menyediakan fitur manajemen event, pemesanan tiket digital (E-Ticket)
 
 ---
 
-## 🧩 Daftar Isi
-- [Tentang Proyek](#tentang-proyek)
-- [Fitur Utama](#fitur-utama)
-- [Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [Struktur Folder](#struktur-folder)
-- [Instalasi dan Menjalankan Proyek](#instalasi-dan-menjalankan-proyek)
-- [Desain UI/UX](#desain-uiux)
-- [Kebutuhan Sistem](#kebutuhan-sistem)
-  - [Perangkat Keras](#perangkat-keras)
-  - [Perangkat Lunak](#perangkat-lunak)
-- [User Story](#user-story)
-- [Kontributor](#kontributor)
-- [Lisensi](#lisensi)
-
----
-
 ## 📖 Tentang Proyek
 
 **EventHub** merupakan platform web untuk manajemen event dan penjualan tiket berbasis online.  
