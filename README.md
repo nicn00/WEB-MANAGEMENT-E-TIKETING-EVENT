@@ -53,7 +53,7 @@ Tujuan utama EventHub adalah:
 ## 🧰 Teknologi yang Digunakan
 
 ### **Backend**
-- [Laravel 10 (PHP 8+)](https://laravel.com/)
+- [Laravel 12 (PHP 8+)](https://laravel.com/)
 - RESTful API
 
 ### **Frontend**
